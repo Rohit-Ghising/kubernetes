@@ -1,0 +1,9 @@
+kind: DevOpsBatch
+apiVersion: rohit.com/v1
+metadata:
+  name: batch9
+spec: 
+  name: Devops-to-pro
+  duration: 3 months
+  platform: rohit.com
+  mode: Lives as Alaways
